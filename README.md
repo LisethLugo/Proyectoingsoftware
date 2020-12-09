@@ -37,4 +37,4 @@ La Poligonal se dibuja a través de uno de los siguientes métodos:
 -En consola a través de una librería gráfica 
 -En un archivo CAD a través de  una librería externa 
 
-[Universidad distrital](https://www.udistrital.edu.co)
+[Universidad Distrital](https://www.udistrital.edu.co)
